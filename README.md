@@ -13,7 +13,7 @@ A basic Allways Pass test is included to demonstrate all the files needed for ne
 Once the package in installed, navigate in a browser to /FunctionalTests/Runner to run all tests.
 
 ## Install
-  install-package FuncUnit.MVC4
+    install-package FuncUnit.MVC4
 
 
 Brought to you by Eric Hexter http://LosTechies.com/erichexter
