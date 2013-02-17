@@ -16,5 +16,6 @@
   </metadata>
   <files>
     <file src="funcunit\areas\**\*.*" target="Content/Areas"></file>
+    <file src="funcunit\scritps\testswarm.inject.js" target="Content/Scripts"></file>
   </files>
 </package>
